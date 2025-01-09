@@ -1,0 +1,16 @@
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\bin\Debug\My School Management.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\bin\Debug\My School Management.exe
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\bin\Debug\My School Management.pdb
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My School Management.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.welcome_screen.resources
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My School Management.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My School Management.exe
+c:\users\asus\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My School Management.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\bin\Debug\SchoolDB1.mdf
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\bin\Debug\SchoolDB1_log.ldf
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Form1.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.school_Main_frm3.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Student_Details5.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Teacher_Deatils4.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.view_teacher_details.resources

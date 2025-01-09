@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\My School Management\My School Management\bin\Debug\MySchoolManagement.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\My School Management\My School Management\obj\Debug\MySchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\My School Management\My School Management\obj\Debug\My_School_Management.Student_Details5.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\My School Management\My School Management\obj\Debug\MySchoolManagement.csproj.GenerateResource.Cache
